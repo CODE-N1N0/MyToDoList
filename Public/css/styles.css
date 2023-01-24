@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+}
+
+h1{
+  font-weight: 400;
+  font-size: 3rem;
+  letter-spacing: 5px;
+}
+
+h6 {
+  font-size: 1.2rem;
+}
+
+.color-1 {
+  color: #F0A500;
+}
+
+.border-image {
+  width: 40%;
+  height: auto;
+}
+
+.titles {
+  font-family: 'Benne', serif;
+  margin-bottom: 50px;
+}
+
+.footer-links {
+  color: #F9F3E6;
+  font-size: 2rem;
+  margin: 0 10px 20px;
+}
+
+#main-banner {
+  background-color: #EDE6DB;
+}
+
+.quotes {
+  padding: 7% 7% 4%;
+}
+
+#todos {
+  background-color: #FFFBF5;
+}
+
+.todo-content {
+  height: auto;
+  min-height: 500px;
+  min-width: 100%;
+}
+
+footer {
+  padding: 5% 5% 3%;
+  background-color: #3E3E3E;
+}
